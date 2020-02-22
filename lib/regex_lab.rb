@@ -6,6 +6,7 @@ end
 
 def words_starting_with_un_and_ending_with_ing(text)
    words_string = "unassuming ambiguous understanding pomp circumstance uninteresting uncompromising grouchy corollary" 
+   words_string.scan 
 
 end
 
