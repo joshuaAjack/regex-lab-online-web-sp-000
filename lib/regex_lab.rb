@@ -2,9 +2,6 @@ word =  "a foot Excellent incredible Absolute unreal Inconceivable octopus"
 def starts_with_a_vowel?(word)
  word =~ /[aeiou]/
    return true 
- elsif word =~ /[b-df-hj-np-tv-z]/
- return false
-  end
 end
 
 def words_starting_with_un_and_ending_with_ing(text)
