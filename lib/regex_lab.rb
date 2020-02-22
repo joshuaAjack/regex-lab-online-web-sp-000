@@ -1,6 +1,6 @@
 word =  "a foot Excellent incredible Absolute unreal Inconceivable octopus"
 def starts_with_a_vowel?(word)
- word =~ /[aeiou]/
+ word ==~ /[aeiou]/
  return true 
 end
 if word !=~ /[aeiou]/
