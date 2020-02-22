@@ -1,5 +1,5 @@
 def starts_with_a_vowel?(word)
-  "a foot Excellent incredible Absolute unreal Inconceivable octopus"
+  "a foot Excellent incredible Absolute unreal Inconceivable octopus".scan 
   
 
 
